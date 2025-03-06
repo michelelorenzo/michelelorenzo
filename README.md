@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Michele Lorenzo Miranda 👋 
 
 <!--
 **michelelorenzo/michelelorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate **Junior Software Engineer** with a strong foundation in Java and an eagerness to explore new technologies. I love building creative projects that solve real-world problems and contribute to open-source initiatives. 👨🏼‍💻
+
+WIP ⚙️

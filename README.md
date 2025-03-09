@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome on my github profile! I'm a passionate **Junior Software Engineer** with a strong foundation in Java and an eagerness to explore new technologies. I love building creative projects that solve real-world problems and continuously improving my skills through hands-on development. 👨🏼‍💻
+Welcome on my github profile!\
+I'm a passionate **Junior Software Engineer** with a strong foundation in Java and an eagerness to explore new technologies. I love building creative projects that solve real-world problems and continuously improving my skills through hands-on development. 👨🏼‍💻
 
 🚀 Tech Stack
 - **Languages**: Java, JavaScript, C#
@@ -25,6 +26,7 @@ Welcome on my github profile! I'm a passionate **Junior Software Engineer** with
 
 🌱 I’m currently learning Swift and SwiftUI
 
+----
 🌍 Happy to meet you 👇
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelelorenzo-miranda/)  
 - [![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@michele.lorenzo_m)  

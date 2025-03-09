@@ -24,7 +24,7 @@ I'm a passionate **Junior Software Engineer** with a strong foundation in Java a
 - **Frameworks/Libraries**: Spring Boot, Node.js, Vue,js
 - **Databases**: MySQL, PostgreSQL
 
-🌱 I’m currently learning Swift and SwiftUI
+🌱 I’m currently learning Swift, SwiftUI and following the Odin Project
 
 ----
 🌍 Happy to meet you 👇
